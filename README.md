@@ -1,5 +1,5 @@
-🚀 JanAushadhi Finder App
-� � �
+#🚀 JanAushadhi Finder App
+
 📌 Overview
 JanAushadhi Finder is an Android application that helps users locate nearby Jan Aushadhi medical stores easily and quickly.
 The application is designed to improve accessibility to affordable medicines using location-based search functionality.
