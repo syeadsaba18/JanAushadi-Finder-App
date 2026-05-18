@@ -36,6 +36,9 @@ Google Maps API
 
 Click Here To Download APK
 
+### Live Demo
+https://appetize.io/app/b_2chf2w36i6mwjdevxs5qi7ui7m
+
 ⚙️ Installation
 
 git clone https://github.com/YOUR-USERNAME/JanAushadhi-Finder.git
