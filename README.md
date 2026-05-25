@@ -1,47 +1,20 @@
-# JanAushadhi Finder App
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-### 📌 Overview
+# Run and deploy your AI Studio app
 
-JanAushadhi Finder is an Android application that helps users locate nearby Jan Aushadhi medical stores easily and quickly.
-The application is designed to improve accessibility to affordable medicines using location-based search functionality.
+This contains everything you need to run your app locally.
 
-### ✨ Features
+View your app in AI Studio: https://ai.studio/apps/22a5906a-e28a-4ea8-8819-a18e882458ca
 
-📍 Find nearby Jan Aushadhi stores
+## Run Locally
 
-🔍 Smart medicine center search
-
-🗺️ Google Maps integration
-
-⚡ Fast and responsive UI
-
-📱 Clean Android interface
-
-🏥 Affordable healthcare support
+**Prerequisites:**  Node.js
 
 
-### 🛠️ Tech Stack
-
-Java / Kotlin
-
-Android Studio
-
-XML
-
-Firebase (if used)
-
-Google Maps API
-
-📥 Download APK
-
-Click Here To Download APK
-
-### Live Demo
-https://appetize.io/app/b_2chf2w36i6mwjdevxs5qi7ui7m
-
-⚙️ Installation
-
-git clone https://github.com/YOUR-USERNAME/JanAushadhi-Finder.git
-
-👨‍💻 Developed By
-Saba Kulsum
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
