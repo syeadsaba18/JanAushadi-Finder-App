@@ -137,7 +137,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-### Ameen Khan
+### Syead Saba
 
 - GitHub: https://github.com/syeadsaba18
 
